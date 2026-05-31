@@ -1,0 +1,20 @@
+{
+  "name": "yaya",
+  "scienceName": "ya",
+  "description": "Yarik the plant",
+  "leafType": "peryevoy",
+  "root": "kluben",
+  "fruit": "oreh",
+  "ammFruit": "3",
+  "morphology": "kust",
+  "ppfd": "10",
+  "humidity": 5,
+  "ph": 5,
+  "space": 10,
+  "soil": "chernozem",
+  "survivability": "high",
+  "growthSpeed": "slow",
+  "climate": "pustinny",
+  "water": "reka",
+  "landScape": "pole"
+}
